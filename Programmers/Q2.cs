@@ -1,19 +1,19 @@
-﻿using System;
+﻿// using System;
 
-public class Q2
-{
-   public static void Main()
-   {
-       String[] s;
+// public class Q2
+// {
+//    public static void Main()
+//    {
+//        String[] s;
 
-       Console.Clear();
-       s = Console.ReadLine().Split(' ');
+//        Console.Clear();
+//        s = Console.ReadLine().Split(' ');
 
-       int a = Int32.Parse(s[0]);
-       int b = Int32.Parse(s[1]);
+//        int a = Int32.Parse(s[0]);
+//        int b = Int32.Parse(s[1]);
 
-       Console.WriteLine($"a = {a}");
-       Console.WriteLine($"b = {b}");
+//        Console.WriteLine($"a = {a}");
+//        Console.WriteLine($"b = {b}");
 
-   }
-}
+//    }
+// }

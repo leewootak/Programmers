@@ -1,9 +1,9 @@
-﻿using System;
+﻿// using System;
 
-public class Q5
-{
-   public static void Main()
-   {
-       Console.WriteLine("!@#$%^&*(\\'\"<>?:;");
-   }
-}
+// public class Q5
+// {
+//    public static void Main()
+//    {
+//        Console.WriteLine("!@#$%^&*(\\'\"<>?:;");
+//    }
+// }
