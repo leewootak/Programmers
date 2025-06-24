@@ -1,7 +1,10 @@
 // using System;
+
 // // 수 조작하기
-// public class Solution {
-//     public int solution(int n, string control) {
+// public class Q27
+// {
+//     public int solution(int n, string control)
+//     {
 //         int answer = 0;
 //         for (int i = 0; i < control.Length; i++)
 //         {

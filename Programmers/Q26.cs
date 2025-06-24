@@ -1,8 +1,11 @@
 // using System;
 // using System.Collections.Generic;
+
 // // 마지막 두 원소
-// public class Solution {
-//     public int[] solution(int[] num_list) {
+// public class Q26
+// {
+//     public int[] solution(int[] num_list)
+//     {
 //         List<int> list = new List<int>(num_list);
 
 //         int a = num_list[num_list.Length - 1];
